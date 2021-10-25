@@ -1402,3 +1402,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.25-09.31.08:644][529]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to initialize the project as a Git repository first.
 [2021.10.25-09.31.17:167][ 25]SourceControl: Source control is disabled
 [2021.10.25-09.31.17:167][ 25]LogSlate: Window 'Source Control Login' being destroyed
+[2021.10.25-10.00.03:588][325]SourceControl: Source control is disabled
+[2021.10.25-10.00.03:589][325]LogSlate: Window 'Source Control Login' being destroyed
