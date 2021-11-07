@@ -41338,3 +41338,110 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.07-21.13.25:011][ 68]LogFileHelpers: Auto-saving content packages took 0.046
 [2021.11.07-23.24.20:484][357]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2021.11.07-23.24.20:484][357]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.07-23.26.40:595][228]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2021.11.07-23.26.41:896][228]LogSlate: Window 'Save Content' being destroyed
+[2021.11.07-23.26.42:562][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube_Blueprint1" FILE="../../../../../Documents/Unreal Projects/Zuev_Igor/Content/Geometry/Meshes/1M_Cube_Blueprint1.uasset" SILENT=true
+[2021.11.07-23.26.42:617][228]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Zuev_Igor/Saved/1M_Cube_Blueprint142E866F84A634EE92ED6D289B55DC646.tmp' to '../../../../../Documents/Unreal Projects/Zuev_Igor/Content/Geometry/Meshes/1M_Cube_Blueprint1.uasset'
+[2021.11.07-23.26.42:949][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Materials/bransh_BP" FILE="../../../../../Documents/Unreal Projects/Zuev_Igor/Content/StarterContent/Props/Materials/bransh_BP.uasset" SILENT=true
+[2021.11.07-23.26.42:970][228]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Zuev_Igor/Saved/bransh_BPFEFF39324306494F023B4F9E002A3076.tmp' to '../../../../../Documents/Unreal Projects/Zuev_Igor/Content/StarterContent/Props/Materials/bransh_BP.uasset'
+[2021.11.07-23.26.43:151][228]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.11.07-23.26.43:220][228]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Zuev_Igor/Saved/Minimal_Default5B7532E1401F160B320A4EB9E18694AB.tmp' to '../../../../../Documents/Unreal Projects/Zuev_Igor/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.11.07-23.26.43:640][228]LogFileHelpers: Saving map 'Minimal_Default' took 0.516
+[2021.11.07-23.26.43:729][228]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Zuev_Igor/Saved/Sphere_Blueprint136D90014C23EB94C5C333A288E48C3D.tmp' to '../../../../../Documents/Unreal Projects/Zuev_Igor/Content/StarterContent/Blueprints/Sphere_Blueprint.uasset'
+[2021.11.07-23.26.43:950][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sphere_Blueprint" FILE="../../../../../Documents/Unreal Projects/Zuev_Igor/Content/Sphere_Blueprint.uasset" SILENT=true
+[2021.11.07-23.26.43:961][228]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Zuev_Igor/Saved/Sphere_Blueprint81DC774A4F950C9A7234F1942F0F39DF.tmp' to '../../../../../Documents/Unreal Projects/Zuev_Igor/Content/Sphere_Blueprint.uasset'
+[2021.11.07-23.26.44:165][228]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Zuev_Igor/Saved/ThirdPersonCharacterB2898B7E45CF8CF1398574952904FE08.tmp' to '../../../../../Documents/Unreal Projects/Zuev_Igor/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.07-23.26.44:194][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/Materials/Weapon" FILE="../../../../../Documents/Unreal Projects/Zuev_Igor/Content/StarterContent/Props/Materials/Weapon.uasset" SILENT=true
+[2021.11.07-23.26.44:209][228]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Zuev_Igor/Saved/Weapon40BCA55E45B1B3300F8047929E5ACB00.tmp' to '../../../../../Documents/Unreal Projects/Zuev_Igor/Content/StarterContent/Props/Materials/Weapon.uasset'
+[2021.11.07-23.26.44:424][228]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.44:424][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-23.26.44:658][228]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.07-23.26.44:658][228]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.44:658][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.07-23.26.44:970][228]LogSlate: Window 'Zuev_Igor - Unreal Editor' being destroyed
+[2021.11.07-23.26.45:583][228]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.07-23.26.45:583][228]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.07-23.26.45:583][228]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.11.07-23.26.45:583][228]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Props/Materials/bransh_BP.bransh_BP
+[2021.11.07-23.26.45:583][228]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/Sphere_Blueprint.Sphere_Blueprint
+[2021.11.07-23.26.45:583][228]LogContentValidation: Display: Validating Blueprint /Game/Sphere_Blueprint.Sphere_Blueprint
+[2021.11.07-23.26.45:583][228]LogContentValidation: Display: Validating Blueprint /Game/Geometry/Meshes/1M_Cube_Blueprint1.1M_Cube_Blueprint1
+[2021.11.07-23.26.45:583][228]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Props/Materials/Weapon.Weapon
+[2021.11.07-23.26.45:604][229]Cmd: QUIT_EDITOR
+[2021.11.07-23.26.45:621][229]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.11.07-23.26.45:820][229]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.11.07-23.26.46:296][229]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.11.07-23.26.46:296][229]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.11.07-23.26.46:296][229]LogAudio: Display: Audio Device unregistered from world 'Minimal_Default'.
+[2021.11.07-23.26.46:296][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.07-23.26.46:301][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.07-23.26.46:346][229]LogAudio: Display: Audio Device Manager Shutdown
+[2021.11.07-23.26.46:346][229]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.07-23.26.46:399][229]LogExit: Preparing to exit.
+[2021.11.07-23.26.47:226][229]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2021.11.07-23.26.48:806][229]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:809][229]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:811][229]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:813][229]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:815][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:815][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:815][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:815][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:816][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:816][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:816][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:816][229]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:818][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:818][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:818][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:818][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:818][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:818][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:818][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:818][229]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:820][229]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:822][229]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:825][229]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:830][229]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:833][229]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:835][229]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:838][229]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:841][229]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:843][229]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:845][229]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:848][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:848][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:848][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:848][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:848][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:848][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:848][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:848][229]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:850][229]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:852][229]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:855][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:855][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:855][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:855][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:855][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:855][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:855][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:855][229]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:858][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:858][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:858][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:858][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:858][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:858][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:858][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:858][229]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:860][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:860][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:860][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:860][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:860][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:860][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:860][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.07-23.26.48:860][229]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.48:863][229]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.11.07-23.26.49:412][229]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
